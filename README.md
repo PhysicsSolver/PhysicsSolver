@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Citation
+If you find this repo useful, please cite our paper.
 ```
 @misc{zhu2025physicssolvertransformerenhancedphysicsinformedneural,
       title={PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations}, 
@@ -31,3 +32,9 @@ If you have any questions or suggestions, feel free to contact our maintenance t
 Current:
 - physicssolverpde@outlook.com
 - zyzhu@math.cuhk.edu.hk
+
+## Acknowledgement
+
+We appreciate the following github repos for their valuable codebase:
+- PINNs: https://github.com/maziarraissi/PINNs
+- PINNsformer: https://github.com/AdityaLab/pinnsformer

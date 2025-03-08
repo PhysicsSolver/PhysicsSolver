@@ -11,6 +11,8 @@
 ```
 pip install -r requirements.txt
 
+```
+
 ## Citation
 ```
 @misc{zhu2025physicssolvertransformerenhancedphysicsinformedneural,

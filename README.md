@@ -1,7 +1,7 @@
 ## This is the official code repository for PhysicsSolver.
 
 <p align="center">
-<img src=".\pic\overall.png" height = "300" alt="" align=center />
+<img src=".\pic\overall.jpg" height = "300" alt="" align=center />
 </p>
 
 ## Usage

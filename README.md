@@ -11,6 +11,22 @@
 ```
 pip install -r requirements.txt
 
+## Citation
+
+If you find this repo useful, please cite our paper.
+
+```
+@misc{zhu2025physicssolvertransformerenhancedphysicsinformedneural,
+      title={PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations}, 
+      author={Zhenyi Zhu and Yuchen Huang and Liu Liu},
+      year={2025},
+      eprint={2502.19290},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2502.19290}, 
+}
+```
+
 ## Contact
 If you have any questions or suggestions, feel free to contact our maintenance team:
 

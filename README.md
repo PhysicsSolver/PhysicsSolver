@@ -4,7 +4,7 @@
 <img src=".\pic\overall.jpg" height = "500" alt="" align=center />
 </p>
 
-:triangular_flag_on_post:**News** (2025.03) We update code of the forward and prediction task for baselines e.g. pinns, more codes will come soon~
+:triangular_flag_on_post:**News** (2025.03) We update the code of the forward and prediction tasks for baselines e.g. pinns, more codes will come soon~
 
 ## Usage
 
